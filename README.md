@@ -1,5 +1,4 @@
 # RecursiveDuplicateFiles
-Recursive Find Duplicate Files
 
 Download source code.
 
